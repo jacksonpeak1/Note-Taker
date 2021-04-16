@@ -1,6 +1,8 @@
 # Note-Taker
 
 ## Github Repository Link
+https://github.com/jacksonpeak1/Note-Taker
+
 
 
 
